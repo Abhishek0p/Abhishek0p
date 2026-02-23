@@ -1,16 +1,117 @@
-## Hi there 👋
+👋 Hi, I'm Abhishek Verma
 
-<!--
-**Abhishek0p/Abhishek0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Computer Science Student
+📊 Aspiring Data Scientist | Data Analyst | Machine Learning Engineer
+🚀 Passionate about building real-world AI & data-driven systems
 
-Here are some ideas to get you started:
+💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Computer Science student deeply interested in Data Science, Machine Learning, and Analytics.
+I enjoy solving problems using data and building intelligent systems that create real-world impact.
+
+Currently focusing on:
+
+📈 Data Analysis & Visualization
+
+🤖 Machine Learning & Deep Learning
+
+🧠 Computer Vision
+
+🗄️ SQL & Databases
+
+🧮 Data Structures & Algorithms
+
+🛠️ Technical Skills
+👨‍💻 Programming
+
+Python
+
+SQL
+
+Java (Core + OOP)
+
+C++ (DSA)
+
+📊 Data Science & ML
+
+NumPy
+
+Pandas
+
+Matplotlib / Seaborn
+
+Scikit-learn
+
+OpenCV
+
+🗄️ Databases
+
+MySQL
+
+PostgreSQL
+
+🌐 Tools & Technologies
+
+Git & GitHub
+
+Jupyter Notebook
+
+VS Code
+
+Power BI (Basics)
+
+🚀 Projects
+🎬 Movie Recommender System
+
+Built a content-based recommendation system
+
+Used cosine similarity and feature engineering
+
+Designed to suggest relevant movies based on user preferences
+
+👤 Face Recognition System
+
+Implemented using OpenCV
+
+Applied computer vision techniques for face detection & recognition
+
+Real-time recognition pipeline
+
+🛰️ Low Resolution to Super Resolution (LR → SR)
+
+Worked on image enhancement techniques
+
+Applied ML-based super-resolution concepts
+
+Focused on improving image clarity and detail
+
+🎥 AI Video Processing Pipeline
+
+Built an automated AI-based video processing system
+
+Integrated computer vision and ML components
+
+Designed modular pipeline for scalability
+
+(More projects available in repositories 👇)
+
+📈 Currently Working On
+
+Strengthening Machine Learning fundamentals
+
+Improving Data Structures & Algorithms for interviews
+
+Building production-level ML projects
+
+Preparing for internships & data roles
+
+🎯 Career Goal
+
+To work as a Data Scientist / ML Engineer / Data Analyst, solving meaningful real-world problems using data and AI.
+
+📫 Connect With Me
+
+GitHub: https://github.com/Abhishek0p
+
+LinkedIn: https://www.linkedin.com/in/abhishek-verma83/
+⭐ If you like my work, feel free to explore my repositories and connect!
